@@ -71,5 +71,26 @@
     }
   ],
   "url": "https://github.com/Azavit/PF2e-Fetish-Core/",
-  "description": ""
+  "description": "",
+  "packFolders": [
+    {
+      "name": "PF2e Fetish",
+      "sorting": "m",
+      "packs": [],
+      "color": "#e071fe",
+      "folders": [
+        {
+          "name": "Core",
+          "sorting": "a",
+          "packs": [
+            "pf2e-fetish-core-actors",
+            "pf2e-fetish-core-items",
+            "pf2e-fetish-core-journal",
+            "pf2e-fetish-core-macros",
+            "pf2e-fetish-core-rolltable"
+          ]
+        }
+      ]
+    }
+  ]
 }
