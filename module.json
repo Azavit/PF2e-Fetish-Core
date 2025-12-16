@@ -70,6 +70,31 @@
       }
     }
   ],
+  "flags": {
+    "pf2e-fetish-core": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "lust": "Lust"
+        },
+        "featTraits": {
+          "lust": "Lust",
+          "sexual": "Sexual"
+        },
+        "weaponTraits": {
+          "lust": "Lust",
+          "sexual": "Sexual"
+        },
+        "spellTraits": {
+          "lust": "Lust",
+          "sexual": "Sexual"
+        },
+        "equipmentTraits": {
+          "lust": "Lust",
+          "sexual": "Sexual"
+        }
+      }
+    }
+  },
   "url": "https://github.com/Azavit/PF2e-Fetish-Core/",
   "description": "",
   "packFolders": [
