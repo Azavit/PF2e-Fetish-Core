@@ -1,0 +1,78 @@
+{
+  "id": "pf2e-fetish-core",
+  "title": "PF2e-Fetish Core",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Azavit",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pf2e-fetish-core-actors",
+      "label": "PF2e-Fetish Core Actors",
+      "path": "packs/pf2e-fetish-core-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-fetish-core-items",
+      "label": "PF2e-Fetish Core Items",
+      "path": "packs/pf2e-fetish-core-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "pf2e-fetish-core-journal",
+      "label": "PF2e-Fetish Core Journals",
+      "path": "packs/pf2e-fetish-core-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pf2e-fetish-core-macros",
+      "label": "PF2e-Fetish Core Macros",
+      "path": "packs/pf2e-fetish-core-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pf2e-fetish-core-rolltable",
+      "label": "PF2e-Fetish Core RollTable",
+      "path": "packs/pf2e-fetish-core-rolltable",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
