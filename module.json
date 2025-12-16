@@ -9,6 +9,7 @@
   "authors": [
     {
       "name": "Azavit",
+      "url": "https://github.com/Azavit/PF2e-Fetish-Core/",
       "flags": {}
     }
   ],
@@ -21,24 +22,22 @@
       "label": "PF2e-Fetish Core Actors",
       "path": "packs/pf2e-fetish-core-actors",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
+      }
     },
     {
       "name": "pf2e-fetish-core-items",
       "label": "PF2e-Fetish Core Items",
       "path": "packs/pf2e-fetish-core-items",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e",
-      "flags": {}
+      }
     },
     {
       "name": "pf2e-fetish-core-journal",
@@ -48,8 +47,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "pf2e-fetish-core-macros",
@@ -59,8 +57,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "pf2e-fetish-core-rolltable",
@@ -70,9 +67,9 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     }
   ],
+  "url": "https://github.com/Azavit/PF2e-Fetish-Core/",
   "description": ""
 }
