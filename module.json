@@ -78,19 +78,23 @@
         },
         "featTraits": {
           "lust": "Lust",
-          "sexual": "Sexual"
+          "sexual": "Sexual",
+          "unhampered": "Unhampered"
         },
         "weaponTraits": {
           "lust": "Lust",
-          "sexual": "Sexual"
+          "sexual": "Sexual",
+          "unhampered": "Unhampered"
         },
         "spellTraits": {
           "lust": "Lust",
-          "sexual": "Sexual"
+          "sexual": "Sexual",
+          "unhampered": "Unhampered"
         },
         "equipmentTraits": {
           "lust": "Lust",
-          "sexual": "Sexual"
+          "sexual": "Sexual",
+          "unhampered": "Unhampered"
         }
       }
     }
